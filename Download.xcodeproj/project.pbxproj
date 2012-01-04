@@ -1663,6 +1663,7 @@
 		CAEA31011467BCAE006D2975 /* DownloadTests */ = {
 			isa = PBXGroup;
 			children = (
+				CAEA363A1467BD14006D2975 /* SNS */,
 				CAEA31071467BCAE006D2975 /* DownloadTests.h */,
 				CAEA31081467BCAE006D2975 /* DownloadTests.m */,
 				CAEA31021467BCAE006D2975 /* Supporting Files */,
@@ -1973,7 +1974,6 @@
 				CAEA35981467BD13006D2975 /* Location */,
 				CAEA359D1467BD13006D2975 /* MobClick */,
 				CAEA362C1467BD14006D2975 /* Search */,
-				CAEA363A1467BD14006D2975 /* SNS */,
 				CAEA36581467BD14006D2975 /* SpecialCharacters.txt */,
 				CAEA36591467BD14006D2975 /* UIUtils */,
 				CAEA36681467BD14006D2975 /* Utils */,
@@ -2408,7 +2408,8 @@
 				CAEA364A1467BD14006D2975 /* Resource */,
 				CAEA36551467BD14006D2975 /* SINA */,
 			);
-			path = SNS;
+			name = SNS;
+			path = ../../Common_Iphone/SNS;
 			sourceTree = "<group>";
 		};
 		CAEA363C1467BD14006D2975 /* Common */ = {

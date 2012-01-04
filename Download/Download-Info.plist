@@ -14,7 +14,7 @@
 		<string>57@2x.png</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.qqnpipi.wallpaperdownload</string>
+	<string>com.qqnpipi.bookdownload</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -28,7 +28,11 @@
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFHasWallpaperTab</key>
+	<false/>
+	<key>CFHasBookTab</key>
 	<true/>
+	<key>CFHasVideoTab</key>
+	<false/>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIFileSharingEnabled</key>
